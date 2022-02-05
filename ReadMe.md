@@ -14,7 +14,7 @@ This bot can send all new messages from one channel, directly to another channel
 <summary>Deploy on Heroku</summary>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/stark-Prince/PostForwarderBot">
+  <a href="https://heroku.com/deploy?template=https://github.com/CryptoBae19/PostForwarderBot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
